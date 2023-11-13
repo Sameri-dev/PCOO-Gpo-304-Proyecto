@@ -15,4 +15,7 @@ Primero se le va a pedir que ingrese el usuario (objeto) con su nomina(terminaci
 Segundo se pedira el numero del cliente (objeto)
 Tercero dependiendo del numero del cliente se le asiganara su habitacion y su paquete
 
-#Pasos
+# Pasos
+Crear los objetos y las clases
+Agregar funcion para que separe a los clientes
+Agregar funcion para que de numero de habitacion
