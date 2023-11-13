@@ -12,7 +12,7 @@ normal: incluye desayuno, habitacion B+numero divisible entre 3
 
 vip: puede pasar a las areas esclusivas, habitacion C+numeor divisible entre 5
 
-#Programa
+# Programa
 Primero se le va a pedir que ingrese el usuario (objeto) con su nomina(terminacion en 8)
 
 Segundo se pedira el numero del cliente (objeto)
