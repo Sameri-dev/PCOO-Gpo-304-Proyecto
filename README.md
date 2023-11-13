@@ -7,15 +7,21 @@ por lo que buscan la manera de asignar habitaciones a sus clientes de formas mas
 basandose en tres tipos de paquetes y los numeros con los que se registraron:
 
 estandar: solo se queda la noche, sus habitaciones son A+numero par
+
 normal: incluye desayuno, habitacion B+numero divisible entre 3
+
 vip: puede pasar a las areas esclusivas, habitacion C+numeor divisible entre 5
 
 #Programa
 Primero se le va a pedir que ingrese el usuario (objeto) con su nomina(terminacion en 8)
+
 Segundo se pedira el numero del cliente (objeto)
+
 Tercero dependiendo del numero del cliente se le asiganara su habitacion y su paquete
 
 # Pasos
 Crear los objetos y las clases
+
 Agregar funcion para que separe a los clientes
+
 Agregar funcion para que de numero de habitacion
