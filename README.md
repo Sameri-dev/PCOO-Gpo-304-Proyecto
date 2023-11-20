@@ -25,3 +25,7 @@ Crear los objetos y las clases
 Agregar funcion para que separe a los clientes
 
 Agregar funcion para que de numero de habitacion
+
+# Diagrama de clase
+
+https://app.diagrams.net/#G1XCKtKsPQGpXE54agaLO1Vjk6qGefj_p3
