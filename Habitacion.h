@@ -1,5 +1,5 @@
-#ifndef EMPLEADO_H
-#define EMPLEADO_H
+#ifndef HABITACION_H
+#define HABITACION_H
 
 #include <iostream>
 #include <string>
