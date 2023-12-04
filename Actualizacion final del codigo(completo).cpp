@@ -1,3 +1,5 @@
+//esta es la version del codigo completa
+//la version separada es el main
 #include <iostream>
 #include <string>
 
