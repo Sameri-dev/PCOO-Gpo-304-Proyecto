@@ -1,3 +1,10 @@
+#ifndef HABITACIONESTANDAR_H
+#define HABITACIONESTANDAR_H
+
+#include<iostream>
+#include<string>
+#include "Habitacion.h" 
+
 //Abrimos una clase para la habitacion estandar (herencia)
 class HabitacionEstandar : public Habitacion {
 //datos publicos
